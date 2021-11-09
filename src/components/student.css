@@ -1,0 +1,22 @@
+.table-header{
+    background-color:honeydew;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color:blue
+}
+
+.table-body{
+    background-color: aliceblue;
+    color:green;
+    border:red solid 2px;
+    border-collapse: separate;
+
+
+}
+
+.button-del{
+    color:blueviolet;
+    border: red solid 2px;
+    background-color: silver;
+}

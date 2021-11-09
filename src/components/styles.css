@@ -1,0 +1,53 @@
+.uicelledlist{
+    background-color: aqua;
+    color:black;
+}
+.item{
+    background-color:chartreuse;
+    color:black;
+}
+.content{
+    background-color:aquamarine;
+    color:black;
+}
+.header{
+    background-color:aqua;
+    color:black;
+    align-items: center;
+    justify-content: center;
+}
+.del{
+    background-color:white;
+    color:black;
+}
+.trashalternateicon{
+    background-color:orchid;
+    color:black;
+}
+.o{
+    background-color:white;
+    color:rgb(32, 46, 172);
+    border:slateblue solid 2px;
+    border-collapse: separate;
+
+}
+.uicontainer{
+    background-color: palegreen;
+    color:black;
+}
+.o1{
+    background-color:palevioletred;
+    color:black;
+}
+.heading{
+    background-color:palevioletred;
+    color:black;
+}
+.uicontainercenter{
+    background-color:white;
+    color:black;
+}
+.h1{
+    background-color: white;
+    color:black;
+}
